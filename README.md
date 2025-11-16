@@ -17,3 +17,18 @@ Add the following configuration to your configuration file:
 ```
 
 Usage — add two numbers
+
+
+For streamable HTTP use the following config
+
+Host the code in azure/AWS and use that as `<your-url>`
+```json
+"remote-example": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "<your-url>/mcp",
+        "--allow-http"
+      ]
+    }
+```
