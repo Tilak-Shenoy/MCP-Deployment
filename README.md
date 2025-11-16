@@ -2,7 +2,8 @@
 
 ## Deployment
 
-Add the following configuration to your installation guide or configuration file:
+Add the following configuration to your configuration file:
+(settings -> developer -> Edit config) in Claude Desktop
 
 ```json
 "Deployment": {
