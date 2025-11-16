@@ -13,5 +13,6 @@ Add the following configuration to your installation guide or configuration file
         "mcp-server"
     ]
 }
+```
 
 Usage — add two numbers
